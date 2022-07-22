@@ -18,7 +18,10 @@ This page **is** designed with no knowledge of hip-hop or Korean in mind beyond 
 
 This page **is** a one-man operation – I sincerely apologize if there are any errors or omissions, please lt me know if there's anything I can do to make it better!
 
+Some tracks to listen to before we move on:
+
 <center>
 {% include youtubePlayer.html id="gFGZ_gPGels" %}
-{% <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/27DBdAQYbalG0di7blGfDc?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe> %}
+
+{% include spotifyPlayer.html id="27DBdAQYbalG0di7blGfDc" %}
 </center>
