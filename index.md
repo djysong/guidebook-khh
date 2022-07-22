@@ -21,7 +21,9 @@ This page **is** a one-man operation – I sincerely apologize if there are any 
 Some tracks to listen to before we move on:
 
 <center>
-{% include youtubePlayer.html id="gFGZ_gPGels" %}
+{% include youtubePlayer.html id="zNzN84_pXh4" %}
 
-{% include spotifyPlayer.html id="27DBdAQYbalG0di7blGfDc" %}
+{% include youtubePlayer.html id="ZViFTZa-ocw" %}
+
+{% include youtubePlayer.html id="Ao2qQCqRSZs" %}
 </center>
