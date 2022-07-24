@@ -1,10 +1,8 @@
-# A Beginner's Guide to Korean Hip-Hop
-
-## Introduction
+# Introduction
 
 Since its arrival to Korea in the 90s, hip-hop has grown from a gimmick used in dance songs to a mainstay in the music industry, [usually occupying 10 to 15](https://circlechart.kr/page_article/view.circle?sgenre=opinion&idx=20183) of the top 100 songs in a given year. It has also seen a rise in global visibility, thanks in part to [viral tracks](https://www.youtube.com/watch?v=DPC9erC5WqU) as well as [heavy use in K-pop](https://www.youtube.com/watch?v=kTlv5_Bs8aw). Just like in the United States, hip-hop is a very diverse genre comprised of distinctive visual and musical styles. and the scene has ballooned to encompass dozens of agencies and networks and hundreds of artists. With such a proliferation of entities – and without a significant push to reach Western audiences – it can be a difficult scene to get to know, and it's not very obvious where to begin. This page is intended to provide a general overview of the hip-hop industry in Korea, identifying important names to know and trends to follow, while setting the foundation for readers to explore more on their own.
 
-## What this page isn't... and what it is
+# What this page isn't... and what it is
 
 This page is **not** a history of hip-hop in Korea. While we briefly overview the 90's and 00's, we believe the best way to understand the scene is to look at where the industry is now, and progressively uncovering its history as you learn more. 
 
